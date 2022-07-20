@@ -1,0 +1,21 @@
+{
+    "version": "0.1.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/Wowu/pro/releases/download/v0.1.3/pro_0.1.3_windows_386.tar.gz",
+            "bin": [
+                "pro.exe"
+            ],
+            "hash": "e8c0dee1f2e95e4da2d71d130e1cd6682dfed2dcc8015b166fbb6836f07b18ae"
+        },
+        "64bit": {
+            "url": "https://github.com/Wowu/pro/releases/download/v0.1.3/pro_0.1.3_windows_amd64.tar.gz",
+            "bin": [
+                "pro.exe"
+            ],
+            "hash": "30b84536ac877d9bd56c3bca70820d387f409424d2df781dfb9c84d013059eac"
+        }
+    },
+    "license": "MIT",
+    "description": "A single command to quickly open current PR in browser."
+}
