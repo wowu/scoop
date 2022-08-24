@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/Wowu/pro/releases/download/v0.2.0/pro-windows-386.zip",
+            "url": "https://github.com/Wowu/pro/releases/download/v0.2.1/pro-windows-386.zip",
             "bin": [
                 "pro.exe"
             ],
-            "hash": "0e6004b99615dc140c3eca410271510b6b6e4f9bdad79d9b9a2cfac06b3b8ec9"
+            "hash": "5f05d92c209392dd0b31b63602d524d4b14d2d634614b0a052d62b9f11309525"
         },
         "64bit": {
-            "url": "https://github.com/Wowu/pro/releases/download/v0.2.0/pro-windows-amd64.zip",
+            "url": "https://github.com/Wowu/pro/releases/download/v0.2.1/pro-windows-amd64.zip",
             "bin": [
                 "pro.exe"
             ],
-            "hash": "4f49544d58ca1cb93e08e5423cf2519f7ac03a255e2493c7d92549fde78be1f2"
+            "hash": "53e1688a19dda9edd10de2af1f79c7a12c8f16df0467ff7ae8a30cba4d88cfb9"
         }
     },
     "license": "MIT",
